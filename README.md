@@ -1,5 +1,5 @@
 # SharpCandy
-SharpCandy is a C# Windows IOT Sample for controlling the FadeCandy sold by <a href="https://www.adafruit.com/product/1689">AdaFruit</a>.
+SharpCandy is a C# Windows IOT Sample for controlling the FadeCandy, a NeoPixel driver with built in dithering, that can be controlled over USB. Sold by <a href="https://www.adafruit.com/product/1689">AdaFruit</a>.
 
 The sample can run several test patterns outlined below.
 
