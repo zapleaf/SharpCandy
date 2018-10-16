@@ -4,12 +4,12 @@ SharpCandy is a C# Windows IOT Sample for controlling the FadeCandy sold by <a h
 
 ## Alien Signal
 
-Fill Down
+## Fill Down
 
-Flash
+## Flash
 
-Flash Trail
+## Flash Trail
 
-Snake
+## Snake
 
-Stars
+### Stars
