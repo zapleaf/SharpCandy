@@ -1,3 +1,6 @@
+
+Unfortunetly, Fadecandy was discontinued by adafruit. 
+
 # SharpCandy
 SharpCandy is a C# Windows IOT Sample for controlling the FadeCandy, a NeoPixel driver with built in dithering, that can be controlled over USB. Sold by <a href="https://www.adafruit.com/product/1689">AdaFruit</a>.
 
@@ -16,7 +19,7 @@ Randomly flashes the LEDs one at a time in white.
 Same as Flash except a certain number of LEDs are on at any given time.
 
 ### Snake
-Suppose to appear like a snake moveing around a 8x8 grid. Needs work though as the "head" of the snake often goes back and forth and back tracks too much.
+Suppose to appear like a snake moving around a 8x8 grid. Needs work though as the "head" of the snake often goes back and forth and back tracks too much.
 
 ### Stars
 The LEDs randomly dim and brighten in white light to mimic twinkling stars.
